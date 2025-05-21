@@ -62,27 +62,6 @@ Based on the analysis:
 
 ---
 
-## 📁 What's Inside
-
-📁 Folder structure:
-
-/production-performance-analysis-dashboard
-│
-├── /data
-│ ├── production_data.csv
-│ ├── machines_data.csv
-│ └── resource_data.csv
-  └── lines_data.csv
-  └── shifts_data.csv
-  └── products.csv
-│
-├── /reports
-│ └── Production Monitoring and Performance Analysis.pbix
-│
-└── README.md
-
----
-
 ## 🚀 How to Use
 
 1. Clone or download the repository
