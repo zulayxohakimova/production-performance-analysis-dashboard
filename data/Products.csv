@@ -1,0 +1,53 @@
+ProductID,Name,Category,PlannedOutput,CostPerUnit
+1,HydraGlow Serum,Skincare,1360,13.25
+2,VitaC Cream,Skincare,4272,31.86
+3,Ageless Night,Skincare,966,9.5
+4,AquaBoost Gel,Skincare,3944,32.05
+5,PureSkin Toner,Skincare,630,5.93
+6,Flovor Forever MaskDeepClean Scrub,Skincare,1269,37.49
+7,BrightEssence Lotion,Skincare,2933,13.18
+8,SatinSoft Moisturizer,Skincare,1684,18.69
+9,DermaLift Elixir,Skincare,4617,5.32
+10,GlowGuard SPF,Skincare,3404,18.11
+11,Vitamins A&E,Skincare,1582,22.99
+12,KeraShine Shampoo,Haircare,2547,18.15
+13,ArgaSerum Conditioner,Haircare,1475,15.47
+14,VoluMax Spray,Haircare,3234,32.83
+15,ScalpThera Tonic,Haircare,2399,28.14
+16,SilkyLocks Mask,Haircare,2028,7.09
+17,DandruffFix Shampoo,Haircare,4390,35.61
+18,CurlDefine Cream,Haircare,3388,7.93
+19,HairVital Mist,Haircare,2935,47.4
+20,LuxeVolume Mousse,Haircare,2561,41.38
+21,MatteLuxe Lipstick,Makeup,3324,5.72
+22,StayFresh Foundation,Makeup,1863,15.85
+23,VelvetBlend Powder,Makeup,1978,32.45
+24,AquaProof Mascara,Makeup,1275,6.55
+25,GlamLiner Pen,Makeup,3652,16.65
+26,HD Cover Concealer,Makeup,4443,38.99
+27,GlowFix Highlighter,Makeup,1521,28.4
+28,SilkyMatte Blush,Makeup,4343,13.32
+29,LongWear Brow Gel,Makeup,661,22.78
+30,PerfectPrime Base,Makeup,1495,31.91
+31,Citrus Bliss Cologne,Fragrance,3842,8.98
+32,OceanBreeze Mist,Fragrance,4298,28.44
+33,SpicedAmber Essence,Fragrance,837,29.29
+34,VanillaWhisper Spray,Fragrance,4493,48.44
+35,LavenderDew Perfume,Fragrance,879,17.42
+36,Golden Oud Attar,Fragrance,2562,12.44
+37,Moonlit Jasmine Essence,Fragrance,3068,39.75
+38,SheaSmooth Body Wash,Body & Bath,2527,18.21
+39,AlmondMilk Lotion,Body & Bath,891,37.81
+40,Eucalyptus Bath Oil,Body & Bath,4974,8.33
+41,AloeCool Shower Gel,Body & Bath,2778,34.3
+42,LavenderDream Scrub,Body & Bath,3599,43.84
+43,Oak Shampoo,Body & Bath,3604,7.86
+44,HAir Shiner,Body & Bath,2954,35.1
+45,Hair Oil,Body & Bath,1304,37.83
+46,Jet Helper,Body & Bath,3273,44.92
+47,VanillaCoconut Butter,Body & Bath,3190,39.24
+48,HimalayanSalt Soak,Body & Bath,1002,39.69
+49,Citrus Zest Hand Cream,Body & Bath,1370,6.82
+50,TeaTree Foot Balm,Body & Bath,706,24.24
+51,BerryBurst Soap,Body & Bath,1984,14.08
+52,Mussi ConditionerBrighthen Soup+,Body & Bath,1363,33.64
